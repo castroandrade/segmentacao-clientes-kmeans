@@ -55,3 +55,5 @@ O projeto foi desenvolvido em um ambiente Jupyter Notebook (Google Colab). Para 
 1.  Clone este repositório.
 2.  Certifique-se de ter o arquivo `Mall_Customers.csv` no mesmo diretório.
 3.  Abra o arquivo `analise_segmentacao_clientes.ipynb` e execute as células sequencialmente.
+
+## Link para o colab: https://colab.research.google.com/drive/1xE0jIDZUfGaRVRz9sxhxDlGFtBMT3Vcv?usp=sharing
