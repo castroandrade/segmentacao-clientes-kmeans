@@ -2,10 +2,6 @@
 
 Este projeto demonstra o uso de Machine Learning não supervisionado, especificamente o algoritmo **K-Means**, para segmentar clientes de um shopping com base em seus padrões de consumo. O objetivo é transformar dados brutos em insights acionáveis que possam guiar estratégias de marketing personalizadas.
 
-![Gráfico de Segmentação de Clientes](https://github.com/castroandrade/segmentacao-clientes-kmeans/issues/1#issue-3520890465)
-
-> **Nota:** Para obter a URL da imagem acima, tire um print do seu gráfico final, vá para a aba "Issues" do seu repositório no GitHub, crie uma "New Issue" falsa, arraste a imagem para a caixa de texto, espere o upload e copie a URL gerada. Depois, pode fechar a issue sem salvar e colar a URL no lugar certo.
-
 ## 🎯 Objetivo do Projeto
 
 Identificar grupos distintos (clusters) de clientes com base em sua **renda anual** e **pontuação de gastos**, permitindo que a empresa direcione campanhas de marketing de forma mais eficiente e personalizada para cada perfil.
